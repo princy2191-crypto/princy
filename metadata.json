@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Model Photoshoot",
+  "description": "Upload a garment image, provide a design number and background prompt, and generate a professional model photoshoot image using AI. You can then download the result.",
+  "requestFramePermissions": []
+}
